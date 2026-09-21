@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1 - Data wrangling and functions"
-author: "FILL IN YOUR FULL NAME"
+author: "Viktoriia Boiko"
 date: "`r format(Sys.time(), '%B %d, %Y | %H:%M:%S | %Z')`"
 output:
   html_document:
